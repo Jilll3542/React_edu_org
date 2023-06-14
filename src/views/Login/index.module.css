@@ -1,0 +1,7 @@
+.wrap{
+    height: 100vh;
+    background-image: url(https://png.pngtree.com/background/20220718/original/pngtree-green-hazy-background-material-ink-plain-color-simple-white-clouds-picture-image_1662392.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
